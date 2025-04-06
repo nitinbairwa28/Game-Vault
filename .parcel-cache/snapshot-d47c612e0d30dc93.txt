@@ -1,0 +1,15 @@
+14
+61C:\Users\Nitin  bairwa\Desktop\FullStack\project\package.json133880493288351749 0
+73C:\Users\Nitin  bairwa\Desktop\FullStack\project\src\components\header.js133880465536717812 0
+66C:\Users\Nitin  bairwa\Desktop\FullStack\project\package-lock.json133880474719684841 0
+75C:\Users\Nitin  bairwa\Desktop\FullStack\project\src\components\gamelist.js133880465913675735 0
+55C:\Users\Nitin  bairwa\Desktop\FullStack\project\public133880490268211004 1
+52C:\Users\Nitin  bairwa\Desktop\FullStack\project\src133880490048778283 1
+63C:\Users\Nitin  bairwa\Desktop\FullStack\project\src\components133880489326966912 1
+61C:\Users\Nitin  bairwa\Desktop\FullStack\project\src\index.js133880487260008536 0
+69C:\Users\Nitin  bairwa\Desktop\FullStack\project\src\styles\style.css133880466399384254 0
+59C:\Users\Nitin  bairwa\Desktop\FullStack\project\src\styles133880489620759334 1
+77C:\Users\Nitin  bairwa\Desktop\FullStack\project\src\components\components.js133880465718674033 0
+77C:\Users\Nitin  bairwa\Desktop\FullStack\project\src\components\gamedetail.js133880466094597473 0
+77C:\Users\Nitin  bairwa\Desktop\FullStack\project\src\components\pagination.js133880466251979044 0
+66C:\Users\Nitin  bairwa\Desktop\FullStack\project\public\index.html133880487521340375 0
