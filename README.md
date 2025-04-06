@@ -28,7 +28,7 @@ GameVault is a React-based web application that lets users browse, search, and e
 ![Home](./screenshots/home.png)
 
 ### 🎮 Game Detail Page
-![Game Detail](./screenshots/detail.png)
+![Game Detail](./screenshots/details.png)
 
 ### 📚 Library Page
 ![Library](./screenshots/library.png)
