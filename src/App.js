@@ -7,7 +7,7 @@ import Pagination from "./components/pagination.js";
 import Filters from "./components/components.js";
 import Library from "./Library";
 
-const API_KEY = "a9d2bf93b4b44650b38906e2462b62f4";
+const API_KEY = "your_api_key";
 const API_URL = "https://api.rawg.io/api/games";
 
 const App = () => {
